@@ -1,0 +1,10 @@
+.hero-section{
+    min-height: 100vh;
+    color: white;
+    padding: 20px;
+    text-shadow: #1805052c 4px 4px 7px;
+    display: flex;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+}
