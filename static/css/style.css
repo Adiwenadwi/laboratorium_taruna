@@ -8,3 +8,14 @@
     background-size: cover;
     background-position: center;
 }
+
+.overflow-image{
+    position: absolute;
+    top: 7rem;
+    left: 0;
+   
+    width: 100rem;
+    height: 100rem;
+    max-width: none;
+    max-height: none;
+}
